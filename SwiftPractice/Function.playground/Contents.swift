@@ -20,3 +20,22 @@ func add(x: Int, y: Int) -> Int {
     return(x+y)
 }
 add(x: 10, y: 10) // 20 
+
+/*
+ func add(first x: Int, second y: Int) -> Int {
+     return(x+y)
+ }
+
+
+ func add(_ x: Int, _ y: Int) -> Int {
+     return(x+y)
+ }
+
+
+ func add(_ x: Int, with y: Int) -> Int {
+     return(x+y)
+ }
+
+
+
+ */
